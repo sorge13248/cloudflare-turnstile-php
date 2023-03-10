@@ -1,0 +1,22 @@
+{
+  "name": "fsorge/cloudflare-turnstile-php",
+  "description": "Validate Cloudflare Turnstile captcha with ease",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Fsorge\\Cloudflare\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Francesco Sorge",
+      "email": "php@francescosorge.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
