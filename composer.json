@@ -1,6 +1,6 @@
 {
   "name": "fsorge/cloudflare-turnstile-php",
-  "description": "Validate Cloudflare Turnstile captcha with ease",
+  "description": "Validate Cloudflare Turnstile captchas with ease",
   "type": "library",
   "license": "MIT",
   "autoload": {
