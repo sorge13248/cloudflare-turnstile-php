@@ -36,7 +36,7 @@ class Turnstile
             CURLOPT_CUSTOMREQUEST => 'POST',
             CURLOPT_POSTFIELDS => [
                 'secret' => $this->secretKey,
-                'token' => $token,
+                'response' => $token,
             ],
         ));
 
